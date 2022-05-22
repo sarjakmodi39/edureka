@@ -1,0 +1,33 @@
+.image img {
+  width: 100%;
+  /* overflow: auto; */
+}
+.list p {
+  margin-left: 70px;
+  margin-top: 10px;
+  display: inline-block;
+  cursor: pointer;
+  color: #4a4a4a;
+}
+.text {
+  margin-top: -50px;
+  color: #404040;
+  font-size: 16px;
+  font-weight: 400;
+  display: inline-block;
+  text-align: left;
+  margin-left: 125px;
+  padding: 25px 35px;
+  box-shadow: 0 0 15px 1px;
+  background-color: white !important;
+  cursor: pointer;
+}
+.knowmore {
+  font-size: 12px;
+  font-weight: 800;
+  margin-top: 5px;
+  margin-left: 20px;
+  color: blue;
+  text-align: right;
+  display: inline-block;
+}

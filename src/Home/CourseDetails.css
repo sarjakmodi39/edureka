@@ -1,0 +1,78 @@
+.list h3 {
+  margin-left: 70px;
+  margin-top: 10px;
+  display: inline-block;
+  cursor: pointer;
+  color: #4a4a4a;
+  margin-bottom: 20px;
+}
+.heading h2 {
+  margin-left: 70px;
+  margin-top: 30px;
+}
+
+.allcourses {
+  display: block;
+  text-align: center;
+}
+.browsecourse {
+  background-color: blue;
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: larger;
+  color: white;
+  margin-bottom: 0px;
+  cursor: pointer;
+}
+.courselist {
+  color: #4a4a4a;
+  font-size: 13px;
+  font-weight: 400;
+  display: inline-block;
+  margin-left: 70px;
+  margin-bottom: 20px;
+  padding: 19px 20px 20px;
+  box-shadow: 9px 6px 22px 0px;
+  background-color: white !important;
+  cursor: pointer;
+  /* width: 100%; */
+}
+.courselist ul {
+  margin: 0 0 5px 15px;
+  padding: 0;
+}
+.courselist:hover {
+  background-color: black !important;
+}
+.coursemargin title {
+  font-size: 15px;
+  display: flex;   
+  width: 100%;
+  /* flex-direction: column; */
+  color: white;
+  /* line-height: 20px; */
+  margin: 0;
+  color: black;
+  font-weight: bold;
+}
+.coursemargin {
+  display: flex;
+  background-color: greenyellow !important;
+  position: relative;
+}
+.title text {
+  font-size: 11px;
+}
+.courselist p {
+  display: inline-block;
+  width: 100%;
+  font-size: 14px !important;
+  color: gray;
+}
+.courselist button {
+  font-size: larger !important;
+  margin-top: -50px !important;
+  /* position: absolute; */
+  border-radius: 5px;
+  
+}
